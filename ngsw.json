@@ -1,20 +1,20 @@
 {
   "configVersion": 1,
-  "timestamp": 1628487877697,
-  "index": "https://Evenajah/angulartestPwa/index.html",
+  "timestamp": 1628487970604,
+  "index": "https://Evenajah.github.io/angulartestPwa/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://Evenajah/angulartestPwa/es2015-polyfills.f0dde84cf7a460c8b133.js",
-        "https://Evenajah/angulartestPwa/favicon.ico",
-        "https://Evenajah/angulartestPwa/index.html",
-        "https://Evenajah/angulartestPwa/main.6f08da4652e8318c5d8c.js",
-        "https://Evenajah/angulartestPwa/polyfills.7ff3fc35f9bdbaf81d86.js",
-        "https://Evenajah/angulartestPwa/runtime.80ab492fe3d778817936.js",
-        "https://Evenajah/angulartestPwa/styles.3ff695c00d717f2d2a11.css"
+        "https://Evenajah.github.io/angulartestPwa/es2015-polyfills.f0dde84cf7a460c8b133.js",
+        "https://Evenajah.github.io/angulartestPwa/favicon.ico",
+        "https://Evenajah.github.io/angulartestPwa/index.html",
+        "https://Evenajah.github.io/angulartestPwa/main.6f08da4652e8318c5d8c.js",
+        "https://Evenajah.github.io/angulartestPwa/polyfills.7ff3fc35f9bdbaf81d86.js",
+        "https://Evenajah.github.io/angulartestPwa/runtime.80ab492fe3d778817936.js",
+        "https://Evenajah.github.io/angulartestPwa/styles.3ff695c00d717f2d2a11.css"
       ],
       "patterns": []
     },
@@ -23,35 +23,35 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://Evenajah/angulartestPwa/assets/icons/icon-128x128.png",
-        "https://Evenajah/angulartestPwa/assets/icons/icon-144x144.png",
-        "https://Evenajah/angulartestPwa/assets/icons/icon-152x152.png",
-        "https://Evenajah/angulartestPwa/assets/icons/icon-192x192.png",
-        "https://Evenajah/angulartestPwa/assets/icons/icon-384x384.png",
-        "https://Evenajah/angulartestPwa/assets/icons/icon-512x512.png",
-        "https://Evenajah/angulartestPwa/assets/icons/icon-72x72.png",
-        "https://Evenajah/angulartestPwa/assets/icons/icon-96x96.png"
+        "https://Evenajah.github.io/angulartestPwa/assets/icons/icon-128x128.png",
+        "https://Evenajah.github.io/angulartestPwa/assets/icons/icon-144x144.png",
+        "https://Evenajah.github.io/angulartestPwa/assets/icons/icon-152x152.png",
+        "https://Evenajah.github.io/angulartestPwa/assets/icons/icon-192x192.png",
+        "https://Evenajah.github.io/angulartestPwa/assets/icons/icon-384x384.png",
+        "https://Evenajah.github.io/angulartestPwa/assets/icons/icon-512x512.png",
+        "https://Evenajah.github.io/angulartestPwa/assets/icons/icon-72x72.png",
+        "https://Evenajah.github.io/angulartestPwa/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://Evenajah/angulartestPwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://Evenajah/angulartestPwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://Evenajah/angulartestPwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://Evenajah/angulartestPwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://Evenajah/angulartestPwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://Evenajah/angulartestPwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://Evenajah/angulartestPwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://Evenajah/angulartestPwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://Evenajah/angulartestPwa/es2015-polyfills.f0dde84cf7a460c8b133.js": "358e345f88aeb0c3ff501518b84f321f07ff4dfd",
-    "https://Evenajah/angulartestPwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://Evenajah/angulartestPwa/index.html": "c7f6fc8d1279a0a750e26965f4df68d4eeb50d47",
-    "https://Evenajah/angulartestPwa/main.6f08da4652e8318c5d8c.js": "32575e32c585e8431110699ea19b4ca9c1dc0e7b",
-    "https://Evenajah/angulartestPwa/polyfills.7ff3fc35f9bdbaf81d86.js": "31dba5e00bce089fa3ecb1df8e1f2c22b84d32cc",
-    "https://Evenajah/angulartestPwa/runtime.80ab492fe3d778817936.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "https://Evenajah/angulartestPwa/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://Evenajah.github.io/angulartestPwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://Evenajah.github.io/angulartestPwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://Evenajah.github.io/angulartestPwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://Evenajah.github.io/angulartestPwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://Evenajah.github.io/angulartestPwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://Evenajah.github.io/angulartestPwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://Evenajah.github.io/angulartestPwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://Evenajah.github.io/angulartestPwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://Evenajah.github.io/angulartestPwa/es2015-polyfills.f0dde84cf7a460c8b133.js": "358e345f88aeb0c3ff501518b84f321f07ff4dfd",
+    "https://Evenajah.github.io/angulartestPwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://Evenajah.github.io/angulartestPwa/index.html": "659c2f10bfd5c07c8c76e0cfd6506b85a3acc5a8",
+    "https://Evenajah.github.io/angulartestPwa/main.6f08da4652e8318c5d8c.js": "32575e32c585e8431110699ea19b4ca9c1dc0e7b",
+    "https://Evenajah.github.io/angulartestPwa/polyfills.7ff3fc35f9bdbaf81d86.js": "31dba5e00bce089fa3ecb1df8e1f2c22b84d32cc",
+    "https://Evenajah.github.io/angulartestPwa/runtime.80ab492fe3d778817936.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://Evenajah.github.io/angulartestPwa/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
