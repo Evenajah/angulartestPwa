@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1628491411211,
+  "timestamp": 1628493256069,
   "index": "https://evenajah.github.io/angulartestPwa/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "https://evenajah.github.io/angulartestPwa/es2015-polyfills.f0dde84cf7a460c8b133.js",
         "https://evenajah.github.io/angulartestPwa/favicon.ico",
         "https://evenajah.github.io/angulartestPwa/index.html",
-        "https://evenajah.github.io/angulartestPwa/main.250ffe16a9e6a47f886b.js",
+        "https://evenajah.github.io/angulartestPwa/main.8ad1d1479c65a7d6031a.js",
         "https://evenajah.github.io/angulartestPwa/polyfills.7ff3fc35f9bdbaf81d86.js",
         "https://evenajah.github.io/angulartestPwa/runtime.80ab492fe3d778817936.js",
         "https://evenajah.github.io/angulartestPwa/styles.3ff695c00d717f2d2a11.css"
@@ -47,8 +47,8 @@
     "https://evenajah.github.io/angulartestPwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://evenajah.github.io/angulartestPwa/es2015-polyfills.f0dde84cf7a460c8b133.js": "358e345f88aeb0c3ff501518b84f321f07ff4dfd",
     "https://evenajah.github.io/angulartestPwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://evenajah.github.io/angulartestPwa/index.html": "1c8aae56e2d6488277fb2c417c9a9fbcfbd46f66",
-    "https://evenajah.github.io/angulartestPwa/main.250ffe16a9e6a47f886b.js": "47579649a5949ccdea702fe84bbf4f8f546a9baf",
+    "https://evenajah.github.io/angulartestPwa/index.html": "f23a5cf222b790c906474275fed565f2555fc2da",
+    "https://evenajah.github.io/angulartestPwa/main.8ad1d1479c65a7d6031a.js": "8e7adc2dfbd2bc4581d484bdaba54d7891ab5a32",
     "https://evenajah.github.io/angulartestPwa/polyfills.7ff3fc35f9bdbaf81d86.js": "31dba5e00bce089fa3ecb1df8e1f2c22b84d32cc",
     "https://evenajah.github.io/angulartestPwa/runtime.80ab492fe3d778817936.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "https://evenajah.github.io/angulartestPwa/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
